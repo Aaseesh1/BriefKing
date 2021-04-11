@@ -1,0 +1,65 @@
+First task 
+To go through
+Basic Python programming
+Data types and data structures 
+Functions, Classes & Objects
+Libraries(Numpy, Pandas & Matplotlib) & documentation
+
+
+Second Task
+ML Crash Course by Google
+
+ML Concepts
+This explains the basics of ML and introduces terminology.
+
+Framing
+	This section introduces the concepts of Labels, Features, Training Data, and Models in the ML parlance. It also gives a brief introduction about two important and popular ML models 
+Regression Model and 
+Classification Model. Mathematically speaking, an ML model is also known as a Prediction Function.
+
+Descending into ML
+		This section talks about the Linear Regression ML model, training the model, and calculating the training loss. It explains the foundation concepts of ML.
+
+Reducing Loss
+		This section explains the methods to reduce the loss.
+
+First Steps with TF
+
+Generalization - Explains Overfitting problem in ML models and How can we generalize the model
+
+Training and Test Sets - You need a totally different set of data for training and testing your ML models. It is critically important to randomize your labeled data first and divide them into two sets where you use the bigger data set for training your ML model and the remaining for testing your ML model.
+Validation Set - the ML model can be trained with training data, validate the model with validation data, complete the iteration, and make sure that the results are good with test data.
+
+Representation - this section goes into the qualities of good features in data or how to represent your data to be used by ML systems. Statistical concepts such as Scaling, Binning, Scrubbing, and Summary Statistics are mentioned in this section.
+
+Feature Crosses- Many times the individual features in the data on its own may not be sufficient to make an ML model work. At times, combining multiple features and producing synthetic features make the model simple and effective. These synthetic features are called feature crosses created by multiplying or by creating cross products.
+
+Regularization: Simplicity
+		This section talks about that. L2 Regularization technique is explained but there is also another one available namely L1 Regularization.
+
+Logistic Regression
+		This section of the course gives an introduction to Logistic Regression. Understanding the basics of Probability Theory, Sigmoid Function, and Bayes Theorem is essential to understand Logistic Regression.
+
+Classification
+		This section talks about classification problems in ML, and various techniques to check the accuracy of the prediction. The concept of the Confusion Matrix is introduced here. The metrics calculated out of the confusion matrix are used in a wide variety of contexts not only in ML but also in many other fields.
+
+In this course they explained few models for classification
+
+Regularization: Sparsity
+Neural Networks
+Training Neural Nets
+Multi-Class Neural Nets
+
+Embeddings
+
+ML Engineering
+
+This part of the course is dedicated to the engineering aspects of ML whether it is building ML pipelines to serve production ML systems or doing Feature Engineering to make sure that the ML systems are getting the best possible data. 
+
+There are multiple approaches to training ML models. The most common ones are 
+Static Training and 
+Dynamic Training. 
+This section talks about both of them and their pros and cons.
+
+ML Systems in the Real World
+the ML model design, data pipeline preparation, logging and monitoring using the right metrics, maintaining almost everything as code
