@@ -3,11 +3,11 @@
 Summer Of Code | Implementation Project
 
 
-Completed a course on ML (google crash course)
-Compared different ML/DL models for speech to text conversion
-Best Model I found was espnet
-model decided by the group is facebook-denoiser
-The app takes mp3 audio, converts speech to text and then summarizes the tex
+* Completed a course on ML (google crash course)
+* Compared different ML/DL models for speech to text conversion
+* Tried few different models but none are good
+* model decided by the group is facebook-denoiser
+* The app takes mp3 audio, converts speech to text and then summarizes the text
 
 ### Key Dependencies
 
