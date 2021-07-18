@@ -16,13 +16,6 @@ Following versions of python have to be installed on the machine
 * python 3.9.2
 * pip 21.0.1
 
-Other requirements
-
-Download models from
-* https://drive.google.com/file/d/1-3EpW1EzpB2TrvCSjyA0LjjdOzkl5NSx/view?usp=sharing
-* https://drive.google.com/file/d/1-HiRlzexw6Kk1ub1MPFWtSy89XRPrKUq/view?usp=sharing
- 
-and add to the directory you'll work with. 
 
 ### Steps to Run
 
